@@ -1,0 +1,22 @@
+{
+  "name": "cloopen-sms",
+  "version": "0.0.2",
+  "description": "node.js module for sending cloopen sms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chelsh/cloopen-sms.git"
+  },
+  "keywords": [
+    "cloopen"
+  ],
+  "author": "chelsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelsh/cloopen-sms/issues"
+  },
+  "homepage": "https://github.com/chelsh/cloopen-sms"
+}
